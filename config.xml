@@ -9,7 +9,7 @@ versionCode = "10" >
 	<!-- versionCode is optional and Android only -->
 
 	<preference name='phonegap-version' value='cli-5.1.1' />
-	<gap:plugin name="org.apache.cordova.device-orientation" />
+	
 	<name>Test</name>
 	<description></description>
 	<author href="http://webmaxinfotech.com" email="merajgmemon@gmail.com">Meraj Ghaniwala</author>
