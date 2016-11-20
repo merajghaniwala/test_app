@@ -1,0 +1,61 @@
+	body
+	{
+		background: -webkit-linear-gradient(to bottom, #FF9A89, #FF8C87); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(to bottom, #FF9A89, #FF8C87); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(to bottom, #FF9A89, #FF8C87); /* For Firefox 3.6 to 15 */
+		background: linear-gradient(to bottom, #FF9A89, #FF8C87); /* Standard syntax */
+		color:white;
+		font-weight:100 !important;
+		font-family:Josefin Sans;
+	}
+	
+	.head_txt
+	{
+		margin-top:5%;
+	}
+	.head_img
+	{
+		margin-top:5%;
+	}
+	.content
+	{
+		margin-top:8%;
+	}
+	.txtbox
+	{
+		background:transparent;
+		border-radius:0px;
+		border:none;
+		border-bottom:1px solid white;
+		color:white;
+		box-shadow:none !important;
+		outline: none;
+		font-size:20px;
+	}
+	.txtbox:hover, .txtbox:active, .txtbox:focus
+	{
+		border:none;
+		border-bottom:1px solid white;
+		box-shadow:none !important;
+		outline: none;
+	}
+	.btn, .btn:hover, .btn:active, .btn:focus
+	{
+		background:white;
+		border-radius:0px;
+		border:none;
+		border-top:1px solid white;
+		border-bottom:1px solid white;
+		color:#FF8C87;
+		box-shadow:none !important;
+		outline: none;
+		font-size:30px;
+		height:60px;
+		margin-top:15%;
+		margin-bottom:5%;
+		//box-shadow:0px 5px 16px #474141 !important;
+	}
+	input.txtbox::-webkit-input-placeholder
+	{
+		color: white;
+	}
