@@ -1,3 +1,9 @@
+	@font-face
+	{
+	  font-family: "Josefin Sans";
+	  src: url(css/fonts/ »
+	  JosefinSans-Light.ttf) format("truetype");
+	}
 	body
 	{
 		background: -webkit-linear-gradient(to bottom, #FF9A89, #FF8C87); /* For Safari 5.1 to 6.0 */
@@ -44,16 +50,45 @@
 		background:white;
 		border-radius:0px;
 		border:none;
-		border-top:1px solid white;
-		border-bottom:1px solid white;
 		color:#FF8C87;
-		box-shadow:none !important;
 		outline: none;
-		font-size:30px;
-		height:60px;
-		margin-top:15%;
+		font-size:32px;
+		height:50px;
+		margin-top:5%;
 		margin-bottom:5%;
 		//box-shadow:0px 5px 16px #474141 !important;
+	}
+	.btn-half, .btn-half:hover, .btn-half:active, .btn-half:focus
+	{
+		background:white;
+		border-radius:0px;
+		border:none;
+		color:#FF8C87;
+		outline: none;
+		font-size:32px;
+		height:50px;
+		margin-top:5%;
+		margin-bottom:5%;
+		//box-shadow:0px 5px 16px #474141 !important;
+		text-decoration:none;
+	}
+	.btn-half-left
+	{
+		float:left;
+		text-align:center;
+	}
+	.btn-half-right
+	{
+		float:right;
+		text-align:center;
+	}
+	.btn-half-bg
+	{
+		width:59%;
+	}
+	.btn-half-sm
+	{
+		width:40%;
 	}
 	input.txtbox::-webkit-input-placeholder
 	{
