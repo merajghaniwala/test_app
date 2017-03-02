@@ -1,0 +1,78 @@
+
+[
+    {
+        "address": "37 W 20th St, New York, NY",
+        "zip": "10011",
+        "type": "Bar",
+        "location": {"lat": 40.740822, "lng": -73.993111},
+        "canRent": true,
+        "canReturn": true,
+        "zIndex": 1,
+        "comingup": false,
+        "filterTerms": "37 W 20th St, New York, NY 10011, Bar"
+        
+    },
+    
+    {
+        "address": "1 W 3rd St, New York, NY",
+        "zip": "10012",
+        "type": "Bar",
+        "location": {"lat": 40.728015, "lng": -73.994923},
+        "canRent": true,
+        "canReturn": true,
+        "zIndex": 2,
+        "comingup": false,
+        "filterTerms": "1 W 3rd St, New York, NY, 10012, Bar"
+        
+    },
+    
+    {
+        "address": "54 2nd Avenue, New York, NY",
+        "zip": "10003",
+        "type": "Cafe/QuickStop",
+        "location": {"lat": 40.725592,"lng": -73.989546},
+        "canRent": true,
+        "canReturn": false,
+        "zIndex": 3,
+        "comingup": false,
+        "filterTerms": "54 2nd Avenue, New York, NY, 10003, Cafe/QuickStop"
+    },
+    
+    {
+        "address": "116 Suffolk St, New York, NY",
+        "zip": "10002",
+        "type": "Cafe/QuickStop",
+        "location": {"lat": 40.718937, "lng": -73.985885},
+        "canRent": true,
+        "canReturn": true,
+        "zIndex": 4,
+        "comingup": false,
+        "filterTerms": "116 Suffolk St, New York, NY, 10002, Cafe/QuickStop"
+        
+    },
+    
+    {
+        "address": "51 Spring St, New York, NY",
+        "zip": "10012",
+        "type": "Cafe/QuickStop",
+        "location": {"lat": 40.722123, "lng": -73.996416},
+        "canRent": true,
+        "canReturn": false,
+        "zIndex": 5,
+        "comingup": false,
+        "filterTerms": "51 Spring St, New York, NY, 10012, Cafe/QuickStop"
+        
+    },
+    
+    {
+        "address": "265 Bowery, New York, NY",
+        "zip": "10002",
+        "type": "Restaurant/Bar",
+        "location": {"lat": 40.723426, "lng": -73.992471},
+        "canRent": true,
+        "canReturn": true,
+        "zIndex": 6,
+        "comingup": false,
+        "filterTerms": "265 Bowery, New York, NY, 10002, Restaurant/Bar"
+    }
+]
