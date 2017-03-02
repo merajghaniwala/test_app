@@ -9,8 +9,8 @@ versionCode = "10" >
 	<!-- versionCode is optional and Android only -->
 
 	<preference name="phonegap-version" value="3.3.0" />
-	<name>Hoplite Power</name>
-	<description>Hoplite Power</description>
+	<name>HopLite Power</name>
+	<description>HopLite Power</description>
 	<author href="http://coderkube.com" email="info@coderkube.com">Coderkube Technologies</author>
 	
 	<access origin="whatsapp:*" launch-external="yes" />
